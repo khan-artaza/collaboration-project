@@ -19,3 +19,8 @@ function printHelloWorld() {
 function login() {
     console.log("Login successful");
 }
+
+function logout()
+{
+    console.log("logout successfull")
+}
