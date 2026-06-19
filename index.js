@@ -13,11 +13,14 @@ function division(a, b) {
     return a/b
 }
 
-function subtraction(a, b) {
-    return a-b
+function printHelloWorld() {
+    console.log("Hello World");
+}
+function login() {
+    console.log("Login successful");
 }
 
-function Mod(a,b)
+function logout()
 {
     return a % b
 }
@@ -34,4 +37,5 @@ function multiply(a,b)
 function DarkLight()
 {
     console.log("Dashbord");
+    console.log("logout successfull")
 }
