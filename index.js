@@ -12,3 +12,8 @@ function division(a, b) {
 function subtraction(a, b) {
     return a-b
 }
+
+function Mod(a,b)
+{
+    return a % b
+}
