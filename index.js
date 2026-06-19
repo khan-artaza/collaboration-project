@@ -37,5 +37,9 @@ function multiply(a,b)
 function DarkLight()
 {
     console.log("Dashbord");
+
+function dashboard()
+{
+    console.log("Hello")
     console.log("logout successfull")
 }
