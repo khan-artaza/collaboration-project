@@ -16,3 +16,7 @@ function division(a, b) {
 function printHelloWorld() {
     console.log("Hello World");
 }
+
+function printHelloWorldAgain() {
+    console.log("Hello World Again");
+}
