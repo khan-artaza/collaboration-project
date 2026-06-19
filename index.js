@@ -5,3 +5,10 @@ function add(a, b) {
 function print() {
     console.log("Hello");
 }
+function division(a, b) {
+    return a/b
+}
+
+function subtraction(a, b) {
+    return a-b
+}
