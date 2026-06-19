@@ -12,3 +12,7 @@ function print() {
 function division(a, b) {
     return a/b
 }
+
+function printHelloWorld() {
+    console.log("Hello World");
+}
